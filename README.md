@@ -1,4 +1,4 @@
-# COVID-19 Linear Modeling Project
+# COVID-19 Data Science Project
 
 ## Overview
 
